@@ -1,0 +1,11 @@
+5 100 1000# numNodes numMessages delay
+0 dc40 7423 # nodeID hostName listenPort 
+1 dc39 8535
+2 dc38 6487
+3 dc37 9864
+4 dc36 9814
+5 dc20 9361
+6 dc30 5932
+7 dc29 6666
+8 dc27 9999
+9 dc12 10000
